@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+FOR Flavanoids Data
+![Favonoids](https://github.com/arjunsingh101/manufac-assignment/assets/88571166/c3fbdd4b-37c6-4477-b72f-b258cd816721)
+
+For Gamma Data
+![Gamma](https://github.com/arjunsingh101/manufac-assignment/assets/88571166/f76122a1-56d5-46b1-ba38-5bbf5fa9de70)
+
+
